@@ -1,7 +1,3 @@
-Ryan Hueckel (1776448)
-
---------------------------------------------------------------------
-
 ## Assignment 3: Putting your affairs in order:
 
     This program tests 3 different sorting algorithms by running
